@@ -1,5 +1,6 @@
 This is a tutorial on git
 
-Abhay Singh Aslekar
+Abhay Singh Aslekar.
+Aman Singh Kushwaha is a Git/Github Expert.
 
 This is done on Github, not on working directory
